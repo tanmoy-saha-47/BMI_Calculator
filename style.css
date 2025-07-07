@@ -1,0 +1,32 @@
+.container {
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  padding: 10px;
+}
+h1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+#height {
+  margin-bottom: 20px;
+}
+#weight {
+  margin-bottom: 20px;
+}
+button {
+  background-color: rgb(202, 16, 16);
+  color: white;
+  padding: 5px;
+  font-size: 25px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+.results {
+  margin-bottom: 20px;
+  font-weight: 800;
+  font-size: 1.5rem;
+  font-style: italic;
+}
