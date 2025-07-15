@@ -1,8 +1,6 @@
-# BMI Calculator 🧮
+# BMI Calculator 
 
-A simple web application that calculates the **Body Mass Index (BMI)** based on user input for **height (in cm)** and **weight (in kg)**.
-
-## 🔍 Features
+## Features
 
 - Takes user input for height and weight
 - Calculates BMI using the standard formula
@@ -10,7 +8,7 @@ A simple web application that calculates the **Body Mass Index (BMI)** based on 
 - Provides BMI result dynamically on the page
 - Styled with clean and minimal CSS
 
-## 🧠 What is BMI?
+## What is BMI?
 
 BMI (Body Mass Index) is a measure of body fat based on height and weight. It helps you understand whether you're underweight, normal, or overweight.
 
@@ -38,7 +36,3 @@ BMI = weight (kg) / (height (cm) * height (cm)) * 10,000
 - CSS3
 - JavaScript (Vanilla)
 
- ## 🙌 Author 
-**Tanmoy Saha**
-📫[tanmaysaha47@gmail.com]
-💼 [www.linkedin.com/in/tanmay-saha-900881372]
